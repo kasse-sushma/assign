@@ -1,0 +1,66 @@
+2025-04-06 23:52:59,169 - main - INFO - Search completed in 1.08s
+2025-04-06 23:52:59,179 - main - INFO - Search request for: sissp
+2025-04-06 23:53:14,587 - main - INFO - Search completed in 0.73s
+2025-04-06 23:53:14,594 - main - INFO - Search request for: kanpur
+2025-04-06 23:53:27,729 - main - INFO - Search completed in 0.75s
+2025-04-06 23:53:27,733 - main - INFO - Search request for: bengalore
+2025-04-06 23:53:46,684 - main - INFO - Search completed in 0.84s
+2025-04-06 23:53:46,689 - main - INFO - Search request for: unnao
+2025-04-06 23:54:02,798 - main - INFO - Search request for: delih
+2025-04-06 23:54:19,906 - main - INFO - Search completed in 0.82s
+2025-04-06 23:54:19,911 - main - INFO - Search request for: noida
+2025-04-06 23:54:59,282 - main - INFO - Search request for: vanarasi
+2025-04-06 23:55:44,516 - main - INFO - Search completed in 1.03s
+2025-04-06 23:55:44,522 - main - INFO - Search request for: noida
+2025-04-06 23:55:58,349 - main - INFO - Search request for: jaipru
+2025-04-07 00:10:28,835 - main - INFO - Original: 'kanpru', Corrected: 'kanpru'
+2025-04-07 00:10:43,638 - main - INFO - Original: 'kanpur', Corrected: 'kanpur'
+2025-04-07 00:10:44,955 - main - INFO - Search completed in 1.72s
+2025-04-07 00:10:44,967 - main - INFO - Search request for: kanpur
+2025-04-07 00:11:05,698 - main - INFO - Original: 'noida', Corrected: 'noida'
+2025-04-07 00:11:06,934 - main - INFO - Search completed in 1.69s
+2025-04-07 00:11:06,945 - main - INFO - Search request for: noida
+2025-04-07 00:11:18,754 - main - INFO - Original: 'noidu', Corrected: 'noidu'
+2025-04-07 00:11:25,287 - main - INFO - Original: 'noid', Corrected: 'noid'
+2025-04-07 00:11:35,633 - main - INFO - Original: 'ususi', Corrected: 'ususi'
+2025-04-07 00:11:51,669 - main - INFO - Original: 'sissu', Corrected: 'sissu'
+2025-04-07 00:11:52,831 - main - INFO - Search completed in 1.58s
+2025-04-07 00:11:52,837 - main - INFO - Search request for: sissu
+2025-04-07 00:12:15,590 - main - INFO - Original: 'unnao', Corrected: 'unnao'
+2025-04-07 00:12:16,844 - main - INFO - Search completed in 1.69s
+2025-04-07 00:12:16,854 - main - INFO - Search request for: unnao
+2025-04-07 00:12:37,846 - main - INFO - Original: 'unnap', Corrected: 'unnap'
+2025-04-07 00:12:48,174 - main - INFO - Corrected 'varanasi' to 'varanasi' (score: 100.0)
+2025-04-07 00:12:48,175 - main - INFO - Original: 'varanasi', Corrected: 'varanasi'
+2025-04-07 00:12:48,190 - main - INFO - Search request for: varanasi
+2025-04-07 00:12:58,651 - main - INFO - Corrected 'vanarsia' to 'varanasi' (score: 75.0)
+2025-04-07 00:12:58,652 - main - INFO - Original: 'vanarsia', Corrected: 'varanasi'
+2025-04-07 00:12:58,664 - main - INFO - Search request for: vanarsia
+2025-04-07 00:13:16,391 - main - INFO - Corrected 'avanarsi' to 'varanasi' (score: 75.0)
+2025-04-07 00:13:16,392 - main - INFO - Original: 'avanarsi', Corrected: 'varanasi'
+2025-04-07 00:13:16,408 - main - INFO - Search request for: avanarsi
+2025-04-07 00:13:41,621 - main - INFO - Original: 'bangalre', Corrected: 'bangalre'
+2025-04-07 00:41:37,944 - main - INFO - Original: 'kanpru', Corrected: 'kanpur'
+2025-04-07 00:41:51,828 - main - INFO - Original: 'sisu', Corrected: 'sisu movie'
+2025-04-07 00:42:13,395 - main - INFO - Original: 'sissu', Corrected: 'sissu temperature'
+2025-04-07 00:42:26,848 - main - INFO - Original: 'sissp', Corrected: 'cissp'
+2025-04-07 00:42:42,729 - main - INFO - Original: 'banguluru', Corrected: 'bengaluru'
+2025-04-07 00:43:03,390 - main - INFO - Original: 'sarnath', Corrected: 'sarnath mandir'
+2025-04-07 00:43:36,601 - main - INFO - Original: 'sarntha', Corrected: 'sarthak'
+2025-04-07 01:17:23,935 - main - INFO - Original: 'apple', Corrected: 'apple store'
+2025-04-07 01:17:35,499 - main - INFO - Original: 'sarnath', Corrected: 'sarnath mandir'
+2025-04-07 01:17:45,116 - main - INFO - Original: 'noida', Corrected: 'noida temperature'
+2025-04-07 01:17:54,029 - main - INFO - Original: 'noid', Corrected: 'noida'
+2025-04-07 01:18:00,705 - main - INFO - Original: 'noi', Corrected: 'panarpani'
+2025-04-07 01:18:17,120 - main - INFO - Original: 'nioda', Corrected: 'noida'
+2025-04-07 01:19:20,271 - main - INFO - Original: 'nioda', Corrected: 'noida'
+2025-04-07 01:21:11,972 - main - INFO - Original: 'nioda', Corrected: 'noida'
+2025-04-07 01:22:25,857 - main - INFO - Original: 'nioda', Corrected: 'noida'
+2025-04-07 01:22:53,946 - main - INFO - Original: 'nioda', Corrected: 'noida'
+2025-04-07 01:27:40,246 - main - INFO - Original: 'nioda', Corrected: 'noida'
+2025-04-07 01:27:59,830 - main - INFO - Original: 'kanpur', Corrected: 'kanpur to prayagraj distance'
+2025-04-07 01:28:11,105 - main - INFO - Original: 'kanpru', Corrected: 'kanpur'
+2025-04-07 01:32:49,877 - main - INFO - Original: 'kanpru', Corrected: 'kanpur'
+2025-04-07 01:33:01,464 - main - INFO - Original: 'apple', Corrected: 'apple store'
+2025-04-07 01:33:10,450 - main - INFO - Original: 'nioda', Corrected: 'noida'
+2025-04-07 01:33:21,211 - main - INFO - Original: 'niod', Corrected: 'nios'
